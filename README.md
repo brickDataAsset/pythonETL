@@ -1,7 +1,6 @@
 ## pythonETL
 
-### Project: An ETL pipeline to extract bank and market cap data in JSON format, transform those data
-and load the transformed data as a separate CSV file.
+### Project: An ETL pipeline to extract bank and market cap data in JSON format, transform those data and load the transformed data as a separate CSV file.
 
 Guided by: IBM Skills Network
 
